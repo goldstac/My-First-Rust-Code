@@ -5,7 +5,7 @@
 
 ## The borrow checker is stronger than me 😭
 <img src="https://img.shields.io/badge/Long%20Live-C-blue?style=for-the-badge&#x26;logo=c" alt="Long Live C">
-# So I ran back to C like:
+So I ran back to C like:
 
 ```bash
 gcc main.c -o never_leaving_c
