@@ -1,3 +1,3 @@
 fn main() {
-println!("C Is Better Than Rust");
+println!(I Like C ");
 }
